@@ -1,0 +1,4 @@
+voicetotext/
+__pycache__/
+*.pyc
+.env
